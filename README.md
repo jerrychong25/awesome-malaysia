@@ -131,6 +131,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
 
 ## Open Data
 ### Government
+- [Air Pollutant Index of Malaysia](http://apims.doe.gov.my/public_v2/api_table.html)
 - [DBKL Parking Guidance Information System (PGIS)](http://www.dbklpgis.my/)
 - [Malaysia Open Data Portal](http://www.data.gov.my/)
 - [Sarawak Data](https://data.sarawak.gov.my/)
