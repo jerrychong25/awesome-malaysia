@@ -73,12 +73,12 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [Colony Eco City](https://colony.work/kl-eco-city/)
 - [Colony KL Sentral](https://colony.work/kl-sentral/)
 - [Colony KLCC](https://colony.work/klcc/)
-- [Colony Mutiara Damansara](https://colony.work/mutiara-damansara/)
 - [Colony Star Boulevard KLCC](https://colony.work/star-boulevard-klcc/)
 - [Common Ground KL Sentral](https://www.commonground.work/locations/my/kuala-lumpur/klsentral)
 - [Common Ground Mont Kiara](https://www.commonground.work/locations/my/kuala-lumpur/wisma-mont-kiara)
-- [DOKO KL](https://dojokl.com/)
+- [DOJO KL](https://dojokl.com/)
 ### Selangor
+- [Colony Mutiara Damansara](https://colony.work/mutiara-damansara/)
 - [MaGIC Co-Working Space Cyberjaya Campus](https://mymagic.my/facilities/cyberjaya-campus-co-working-space/)
 ### Sarawak
 - [MaGIC Co-Working Space Sarawak Campus](https://mymagic.my/facilities/sarawak-campus-co-working-space/)
