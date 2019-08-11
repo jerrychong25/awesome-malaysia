@@ -24,6 +24,12 @@ A curated list of awesome tech & engineering resources in Malaysia.
   - [Selangor](#selangor)
   - [Sarawak](#sarawak)
 - [Event](#event)
+- [Open API](#open-api)
+  - [Banking & Finance](#banking-&-finance)
+  - [E Commerce](#e-commerce)
+  - [Logistic](#logistic)
+  - [Payment](#payment)
+  - [Weather](#weather)
 - [Open Data](#open-data)
   - [Government](#government)
   - [International Organization](#international-organization)
@@ -129,6 +135,27 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [Ng-My 2019](https://2019.ng-my.org/)
 - [PyCon My 2019](https://pycon.my/)
 - [TechLadies Kuala Lumpur Coding Weekend 2017](https://techladies-kl-weekend1.peatix.com/)
+
+## Open API
+### Banking & Finance
+- [BNM Open API](https://api.bnm.gov.my/portal)
+- [Maybank Sandbox](https://maybanksandbox.com/)
+- [OCBC API Store](https://api.ocbc.com/store)
+- [Standard Chartered aXess](https://axess.sc.com/)
+### E Commerce
+- [Lazada Open Platform](https://open.lazada.com/)
+- [Lelong.my API](http://help.lelong.my/api/)
+- [Shopee Open Platform](https://open.shopee.com/documents?module=63&type=2&id=52)
+### Logistic
+- [EasyParcel API](https://easyparcel.com/my/en/apilanding/)
+- [Pgeon API](https://www.pgeon.delivery/api-request-info)
+- [UPS Developer Kit](https://www.ups.com/my/en/services/technology-integration/developer-api.page)
+### Payment
+- [Billplz API](https://www.billplz.com/api)
+- [Revenue Monster Open API](https://doc.revenuemonster.my/)
+- [TransferWise API](https://api-docs.transferwise.com/)
+### Weather
+- [Malaysian Meteorological Department Web Service API](https://api.met.gov.my/)
 
 ## Open Data
 ### Government
