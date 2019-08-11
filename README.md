@@ -30,6 +30,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
   - [Logistic](#logistic)
   - [Payment](#payment)
   - [Weather](#weather)
+  - [Other](#other)
 - [Open Data](#open-data)
   - [Government](#government)
   - [International Organization](#international-organization)
@@ -148,6 +149,8 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [Shopee Open Platform](https://open.shopee.com/documents?module=63&type=2&id=52)
 ### Logistic
 - [EasyParcel API](https://easyparcel.com/my/en/apilanding/)
+- [DHL Parcel API](https://www.logistics.dhl/my-en/home/all-products-and-solutions/technology-platform-integration/request-api-access.html)
+- [MrSpeedy API](https://mrspeedy.my/business-api/doc)
 - [Pgeon API](https://www.pgeon.delivery/api-request-info)
 - [UPS Developer Kit](https://www.ups.com/my/en/services/technology-integration/developer-api.page)
 ### Payment
@@ -156,6 +159,10 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [TransferWise API](https://api-docs.transferwise.com/)
 ### Weather
 - [Malaysian Meteorological Department Web Service API](https://api.met.gov.my/)
+### Other
+- [Malaysia Prayer Time API](https://api-waktusolat.azurewebsites.net/swagger/ui/index#/)
+- [Open Innovation Platform API Store](https://store.oip.tm.com.my/api-store)
+- [Solat Jakim API](https://api.azanpro.com/)
 
 ## Open Data
 ### Government
