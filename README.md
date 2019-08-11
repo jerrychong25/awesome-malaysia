@@ -26,6 +26,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [Event](#event)
 - [Open Data](#open-data)
   - [Government](#government)
+  - [International Organization](#international-organization)
 
 ## Community
 ### By Field
@@ -135,6 +136,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [DBKL Parking Guidance Information System (PGIS)](http://www.dbklpgis.my/)
 - [Malaysia Open Data Portal](http://www.data.gov.my/)
 - [Sarawak Data](https://data.sarawak.gov.my/)
+### International Organization
 - [WorldBank](https://data.worldbank.org/country/malaysia)
 
 ## Inspired By
