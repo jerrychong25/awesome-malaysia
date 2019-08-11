@@ -50,6 +50,7 @@ A curated list of awesome tech/engineering resources in Malaysia.
 
 - [Awesome Singapore](https://github.com/engineroom-rocks/awesome-singapore)
 - [Awesome iOS](https://github.com/vsouza/awesome-ios)
+- [Awesome Co-Working](https://github.com/ahmadnassri/awesome-coworking)
 
 ## License
 
