@@ -19,7 +19,8 @@ A curated list of awesome tech & engineering resources in Malaysia.
     - [TensorFlow](#tensorflow)
     - [Xamarin](#xamarin)
 - [Co-Working Space](#co-working-space)
-  - [Kuala Lumpur](#kualalumpur)
+  - [Kuala Lumpur](#kuala-lumpur)
+  - [Penang](#penang)
   - [Selangor](#selangor)
   - [Sarawak](#sarawak)
 - [Event](#event)
@@ -88,6 +89,8 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [WeWork Mercu 2](https://www.wework.com/buildings/mercu-2--kuala-lumpur)
 - [WORQ KL Gateway](https://worq.space/coworking-space/kl-gateway/)
 - [WORQ TTDI](https://worq.space/coworking-space/ttdi/)
+### Penang
+- [aCAT Penang](https://acatpenang.com/coworking-space/)
 ### Selangor
 - [Co-labs Glenmarie](https://co-labs.asia/location/co-labs-glenmarie)
 - [Co-labs Shah Alam](https://co-labs.asia/location/co-labs-shah-alam)
