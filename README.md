@@ -25,7 +25,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
   - [Sarawak](#sarawak)
 - [Event](#event)
 - [Open API](#open-api)
-  - [Banking & Finance](#banking-/-finance)
+  - [Banking](#banking)
   - [E Commerce](#e-commerce)
   - [Logistic](#logistic)
   - [Payment](#payment)
@@ -137,7 +137,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [TechLadies Kuala Lumpur Coding Weekend 2017](https://techladies-kl-weekend1.peatix.com/)
 
 ## Open API
-### Banking / Finance
+### Banking
 - [BNM Open API](https://api.bnm.gov.my/portal)
 - [Maybank Sandbox](https://maybanksandbox.com/)
 - [OCBC API Store](https://api.ocbc.com/store)
