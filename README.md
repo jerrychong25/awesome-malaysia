@@ -91,6 +91,15 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [WORQ TTDI](https://worq.space/coworking-space/ttdi/)
 ### Penang
 - [aCAT Penang](https://acatpenang.com/coworking-space/)
+- [Bersama-sama](http://www.bersama.my/)
+- [Cohere](https://cohere.my/)
+- [Common Ground George Town](https://www.commonground.work/locations/my/penang/penang/moulmeineriseshoppe)
+- [Habitat](https://habitat-cowork.com/)
+- [MSOGO](https://www.msogo.com/)
+- [Nomazon](https://nomazon.com/)
+- [Scoopoint](https://www.scoopoint.com/)
+- [Settlements](http://settlements.work/)
+- [The Opis](http://www.theopis.com/)
 ### Selangor
 - [Co-labs Glenmarie](https://co-labs.asia/location/co-labs-glenmarie)
 - [Co-labs Shah Alam](https://co-labs.asia/location/co-labs-shah-alam)
