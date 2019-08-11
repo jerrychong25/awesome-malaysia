@@ -20,13 +20,14 @@ A curated list of awesome tech/engineering resources in Malaysia.
 - [Co-Working Space](#co-working-space)
   - [Selangor](#selangor)
   - [Sarawak](#sarawak)
+- [Event](#event)
 
 ## Community
 ### By Field
 #### Software Engineering
 - [JuniorDev MY](https://www.facebook.com/groups/2289983211014841/)
 - [Findev Malaysia](https://www.facebook.com/groups/1952619934822050)
-- [GDG Kuala Lumpur](https://www.facebook.com/groups/gtugkl)
+- [GDG Kuala Lumpur](https://www.gdgkl.org/)
 - [Girls In Tech Malaysia](https://malaysia.girlsintech.org/)
 - [TechLadies Kuala Lumpur](https://techladieskl.peatix.com/)
 - [Women Who Code Kuala Lumpur](https://www.womenwhocode.com/kl)
@@ -63,12 +64,16 @@ A curated list of awesome tech/engineering resources in Malaysia.
 - [Xamarin Malaysia Developers](https://www.facebook.com/groups/xamarinmydev)
 
 ## Co-Working Space
-
 ### Selangor
 - [MaGIC Co-Working Space Cyberjaya Campus](https://mymagic.my/facilities/cyberjaya-campus-co-working-space/)
-
 ### Sarawak
 - [MaGIC Co-Working Space Sarawak Campus](https://mymagic.my/facilities/sarawak-campus-co-working-space/)
+
+## Event
+- [Cyberjaya Starup Summit 2019](https://www.cyberjayastartupsummit.com/)
+- GDG DevFest Kuala Lumpur ([2013](https://devfestkl.appspot.com/) , [2018](https://events.gdgkl.org/devfest/))
+- Google I/O Extended Kuala Lumpur ([2017](https://events.gdgkl.org/ioxkl17/) , [2018](https://events.gdgkl.org/io/), [2019](https://events.gdgkl.dev/iox/))
+- [TechLadies Kuala Lumpur Coding Weekend 2017](https://techladies-kl-weekend1.peatix.com/)
 
 ## Inspired By
 
