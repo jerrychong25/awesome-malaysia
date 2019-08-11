@@ -16,6 +16,9 @@ A curated list of awesome tech/engineering resources in Malaysia.
     - [iOS](#ios)
     - [TensorFlow](#tensorflow)
     - [Xamarin](#xamarin)
+- [Co-Working Space](#co-working-space)
+  - [Selangor](#selangor)
+  - [Sarawak](#sarawak)
 
 ## Community
 ### By Field
@@ -48,6 +51,14 @@ A curated list of awesome tech/engineering resources in Malaysia.
 - [TensorFlow & Deep Learning Malaysia](https://www.facebook.com/groups/TensorFlowMY)
 #### Xamarin
 - [Xamarin Malaysia Developers](https://www.facebook.com/groups/xamarinmydev)
+
+## Co-Working Space
+
+### Selangor
+-[MaGIC Co-Working Space Cyberjaya Campus](https://mymagic.my/facilities/cyberjaya-campus-co-working-space/)
+
+### Sarawak
+-[MaGIC Co-Working Space Sarawak Campus](https://mymagic.my/facilities/sarawak-campus-co-working-space/)
 
 ## Inspired By
 
