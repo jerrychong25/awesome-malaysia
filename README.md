@@ -24,6 +24,8 @@ A curated list of awesome tech & engineering resources in Malaysia.
   - [Selangor](#selangor)
   - [Sarawak](#sarawak)
 - [Event](#event)
+- [Open Data](#open-data)
+  - [Government](#government)
 
 ## Community
 ### By Field
@@ -126,6 +128,13 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [Ng-My 2019](https://2019.ng-my.org/)
 - [PyCon My 2019](https://pycon.my/)
 - [TechLadies Kuala Lumpur Coding Weekend 2017](https://techladies-kl-weekend1.peatix.com/)
+
+## Open Data
+### Government
+- [DBKL Parking Guidance Information System (PGIS)](http://www.dbklpgis.my/)
+- [Malaysia Open Data Portal](http://www.data.gov.my/)
+- [Sarawak Data](https://data.sarawak.gov.my/)
+- [WorldBank](https://data.worldbank.org/country/malaysia)
 
 ## Inspired By
 
