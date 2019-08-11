@@ -19,6 +19,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
     - [TensorFlow](#tensorflow)
     - [Xamarin](#xamarin)
 - [Co-Working Space](#co-working-space)
+  - [Kuala Lumpur](#kualalumpur)
   - [Selangor](#selangor)
   - [Sarawak](#sarawak)
 - [Event](#event)
@@ -68,6 +69,15 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [Xamarin Malaysia Developers](https://www.facebook.com/groups/xamarinmydev)
 
 ## Co-Working Space
+### Kuala Lumpur
+- [Colony Eco City](https://colony.work/kl-eco-city/)
+- [Colony KL Sentral](https://colony.work/kl-sentral/)
+- [Colony KLCC](https://colony.work/klcc/)
+- [Colony Mutiara Damansara](https://colony.work/mutiara-damansara/)
+- [Colony Star Boulevard KLCC](https://colony.work/star-boulevard-klcc/)
+- [Common Ground KL Sentral](https://www.commonground.work/locations/my/kuala-lumpur/klsentral)
+- [Common Ground Mont Kiara](https://www.commonground.work/locations/my/kuala-lumpur/wisma-mont-kiara)
+- [DOKO KL](https://dojokl.com/)
 ### Selangor
 - [MaGIC Co-Working Space Cyberjaya Campus](https://mymagic.my/facilities/cyberjaya-campus-co-working-space/)
 ### Sarawak
@@ -76,7 +86,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
 ## Event
 - [Cyberjaya Starup Summit 2019](https://www.cyberjayastartupsummit.com/)
 - [Firebase Summit Extended Kuala Lumpur 2018](https://events.gdgkl.org/devfest/)
-- GDG DevFest Kuala Lumpur ([2013](https://devfestkl.appspot.com/) , [2018](https://events.gdgkl.org/devfest/))
+- GDG DevFest Kuala Lumpur ([2013](https://devfestkl.appspot.com/), [2018](https://events.gdgkl.org/devfest/))
 - Google I/O Extended Kuala Lumpur ([2017](https://events.gdgkl.org/ioxkl17/), [2018](https://events.gdgkl.org/io/), [2019](https://events.gdgkl.dev/iox/))
 - [Ng-My 2019](https://2019.ng-my.org/)
 - [PyCon My 2019](https://pycon.my/)
