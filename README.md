@@ -48,8 +48,8 @@ A curated list of awesome tech/engineering resources in Malaysia.
 
 ## Inspired By
 
-[Awesome Singapore](https://github.com/engineroom-rocks/awesome-singapore)
-[Awesome iOS](https://github.com/vsouza/awesome-ios)
+- [Awesome Singapore](https://github.com/engineroom-rocks/awesome-singapore)
+- [Awesome iOS](https://github.com/vsouza/awesome-ios)
 
 ## License
 
