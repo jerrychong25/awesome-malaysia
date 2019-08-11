@@ -23,6 +23,8 @@ A curated list of awesome tech/engineering resources in Malaysia.
 - [JuniorDev MY](https://www.facebook.com/groups/2289983211014841/)
 - [Findev Malaysia](https://www.facebook.com/groups/1952619934822050)
 - [GDG Kuala Lumpur](https://www.facebook.com/groups/gtugkl)
+- [Girls In Tech Malaysia](https://malaysia.girlsintech.org/)
+- [Women Who Code Kuala Lumpur](https://www.womenwhocode.com/kl)
 
 ### By Languages
 #### Angular
