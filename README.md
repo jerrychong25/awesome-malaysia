@@ -9,6 +9,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
   - [By Languages](#by-languages)
     - [Angular](#angular)
     - [React](#react)
+    - [JavaScript](#javascript)
   - [By Platforms](#by-platforms)
     - [AWS](#aws)
     - [GCP](#gcp)
@@ -32,6 +33,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [TechLadies Kuala Lumpur](https://techladieskl.peatix.com/)
 - [Women Who Code Kuala Lumpur](https://www.womenwhocode.com/kl)
 #### Startup
+- [aCAT Penang](https://acatpenang.com/)
 - [Malaysia Digital Hub](https://www.malaysiadigitalhub.my/)
 - [Malaysia Tech Entprepreneur Programme](https://www.mtep.my/)
 - [Starup Borneo](https://startupborneo.my/)
@@ -46,6 +48,8 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [Angular Malaysia](https://www.facebook.com/groups/angular.malaysia)
 #### React
 - [ReactJS ReactNative Malaysia](https://www.facebook.com/groups/766491493448337)
+#### JavaScript
+- [KualaLumpurJS](https://www.facebook.com/groups/kualalumpurjs/)
 
 ### By Platforms
 #### AWS
@@ -74,6 +78,8 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [Firebase Summit Extended Kuala Lumpur 2018](https://events.gdgkl.org/devfest/)
 - GDG DevFest Kuala Lumpur ([2013](https://devfestkl.appspot.com/) , [2018](https://events.gdgkl.org/devfest/))
 - Google I/O Extended Kuala Lumpur ([2017](https://events.gdgkl.org/ioxkl17/), [2018](https://events.gdgkl.org/io/), [2019](https://events.gdgkl.dev/iox/))
+- [Ng-My 2019](https://2019.ng-my.org/)
+- [PyCon My 2019](https://pycon.my/)
 - [TechLadies Kuala Lumpur Coding Weekend 2017](https://techladies-kl-weekend1.peatix.com/)
 
 ## Inspired By
