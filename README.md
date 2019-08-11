@@ -24,6 +24,7 @@ A curated list of awesome tech/engineering resources in Malaysia.
 - [Findev Malaysia](https://www.facebook.com/groups/1952619934822050)
 - [GDG Kuala Lumpur](https://www.facebook.com/groups/gtugkl)
 - [Girls In Tech Malaysia](https://malaysia.girlsintech.org/)
+- [TechLadies Kuala Lumpur](https://techladieskl.peatix.com/)
 - [Women Who Code Kuala Lumpur](https://www.womenwhocode.com/kl)
 
 ### By Languages
