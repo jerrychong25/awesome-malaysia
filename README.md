@@ -145,18 +145,21 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [Standard Chartered aXess](https://axess.sc.com/)
 ### E Commerce
 - [Lazada Open Platform](https://open.lazada.com/)
-- [Lelong.my API](http://help.lelong.my/api/)
+- [Lelong.my](http://help.lelong.my/api/)
 - [Shopee Open Platform](https://open.shopee.com/documents?module=63&type=2&id=52)
 ### Logistic
-- [EasyParcel API](https://easyparcel.com/my/en/apilanding/)
-- [DHL Parcel API](https://www.logistics.dhl/my-en/home/all-products-and-solutions/technology-platform-integration/request-api-access.html)
-- [MrSpeedy API](https://mrspeedy.my/business-api/doc)
-- [Pgeon API](https://www.pgeon.delivery/api-request-info)
+- [EasyParcel](https://easyparcel.com/my/en/apilanding/)
+- [DHL Parcel](https://www.logistics.dhl/my-en/home/all-products-and-solutions/technology-platform-integration/request-api-access.html)
+- [MrSpeedy](https://mrspeedy.my/business-api/doc)
+- [Pgeon](https://www.pgeon.delivery/api-request-info)
 - [UPS Developer Kit](https://www.ups.com/my/en/services/technology-integration/developer-api.page)
 ### Payment
-- [Billplz API](https://www.billplz.com/api)
-- [Revenue Monster Open API](https://doc.revenuemonster.my/)
-- [TransferWise API](https://api-docs.transferwise.com/)
+- [Billplz](https://www.billplz.com/api)
+- [Paypal](https://developer.paypal.com/docs/)
+- [Revenue Monster](https://doc.revenuemonster.my/)
+- [senangPay](https://guide.senangpay.my/manual-integration-api/)
+- [Stripe](https://stripe.com/docs/api)
+- [TransferWise](https://api-docs.transferwise.com/)
 ### Weather
 - [Malaysian Meteorological Department Web Service API](https://api.met.gov.my/)
 ### Other
