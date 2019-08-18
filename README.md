@@ -30,6 +30,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
   - [E Commerce](#e-commerce)
   - [Logistic](#logistic)
   - [Payment](#payment)
+  - [Telecommunication](#telecommunication)
   - [Weather](#weather)
   - [Other](#other)
 - [Open Data](#open-data)
@@ -163,6 +164,8 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [senangPay](https://guide.senangpay.my/manual-integration-api/)
 - [Stripe](https://stripe.com/docs/api)
 - [TransferWise](https://api-docs.transferwise.com/)
+### Telecommunication
+- [numverify](https://numverify.com/)
 ### Weather
 - [Malaysian Meteorological Department Web Service API](https://api.met.gov.my/)
 ### Other
