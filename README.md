@@ -29,6 +29,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
   - [Banking](#banking)
   - [E Commerce](#e-commerce)
   - [Logistic](#logistic)
+  - [News](#news)
   - [Payment](#payment)
   - [Telecommunication](#telecommunication)
   - [Weather](#weather)
@@ -157,6 +158,8 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [MrSpeedy](https://mrspeedy.my/business-api/doc)
 - [Pgeon](https://www.pgeon.delivery/api-request-info)
 - [UPS Developer Kit](https://www.ups.com/my/en/services/technology-integration/developer-api.page)
+### News
+- [News API](https://newsapi.org/s/malaysia-news-api)
 ### Payment
 - [Billplz](https://www.billplz.com/api)
 - [Paypal](https://developer.paypal.com/docs/)
