@@ -20,6 +20,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
     - [Xamarin](#xamarin)
 - [Co-Working Space](#co-working-space)
   - [Kuala Lumpur](#kuala-lumpur)
+  - [Pahang](#pahang)
   - [Penang](#penang)
   - [Perak](#perak)
   - [Selangor](#selangor)
@@ -102,6 +103,8 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [WeWork Mercu 2](https://www.wework.com/buildings/mercu-2--kuala-lumpur)
 - [WORQ KL Gateway](https://worq.space/coworking-space/kl-gateway/)
 - [WORQ TTDI](https://worq.space/coworking-space/ttdi/)
+### Pahang
+- [Starway Valley](https://starwayprofessional.com/starwayvalley/)
 ### Penang
 - [aCAT Penang](https://acatpenang.com/coworking-space/)
 - [Bersama-sama](http://www.bersama.my/)
