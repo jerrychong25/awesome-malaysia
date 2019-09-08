@@ -19,6 +19,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
     - [TensorFlow](#tensorflow)
     - [Xamarin](#xamarin)
 - [Co-Working Space](#co-working-space)
+  - [Johor](#johor)
   - [Kedah](#kedah)
   - [Kelantan](#kelantan)
   - [Kuala Lumpur](#kuala-lumpur)
@@ -86,6 +87,23 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [Xamarin Malaysia Developers](https://www.facebook.com/groups/xamarinmydev)
 
 ## Co-Working Space
+### Johor
+- [52ST](https://www.facebook.com/52stspace/)
+- [Big Wheel Mount Austin](http://www.bigwheel.com.my/)
+- [Big Wheel Sunway Iskandar](http://www.bigwheel.com.my/)
+- [DreamSpace 1Terbau](http://dreamspace.asia/)
+- [DreamSpace Puteri Harbour](http://dreamspace.asia/puteri-harbour/)
+- [GASpace Johor Bahru](http://gaspace.com.my/)
+- [Infinity8 Business Centre](https://infinity8.com.my/business-centre/)
+- [Infinity8 City Centre](https://infinity8.com.my/city-centre/)
+- [Infinity8 E-Commerce Hub](https://infinity8.com.my/e-commerce-hub/)
+- [Infinity8 HQ](https://infinity8.com.my)
+- [IskandarSpace](https://www.iskandar.space/)
+- [Mee Inn Work](https://www.meninnwork.com/)
+- [My Cloud Labs](https://my-cloud-labs.business.site/)
+- [Quarters Coworking Space](https://www.quarterscowork.com/)
+- [V Workspace](https://thevworkspace.com/)
+- [Winspace](http://www.winspace.com.my/)
 ### Kedah
 - [TRE Coworking Space](https://tre.work/)
 ### Kelantan
