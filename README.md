@@ -27,6 +27,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
   - [Penang](#penang)
   - [Perak](#perak)
   - [Selangor](#selangor)
+  - [Sabah](#sabah)
   - [Sarawak](#sarawak)
 - [Event](#event)
 - [Open API](#open-api)
@@ -160,6 +161,15 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [MaGIC Co-Working Space Cyberjaya Campus](https://mymagic.my/facilities/cyberjaya-campus-co-working-space/)
 - [Nomad](https://www.nomadmalaysia.com/)
 - [WORQ Subang](https://worq.space/coworking-space/subang/)
+### Sabah
+- [+ERO-X](http://www.erox.com.my/)
+- [E Space](https://www.e-space.com.my/)
+- [GASpace Kota Kinabalu](http://gaspace.com.my/)
+- [GASpace Sandakan](http://gaspace.com.my/)
+- [Podders](https://poddersmy.business.site/)
+- [SOVO Kota Kinabalu](http://www.sovo.com.my/)
+- [SOVO Miri](http://www.sovo.com.my/)
+- [Toojou](https://www.toojou.com/)
 ### Sarawak
 - [cent@cube](https://www.centacube.com.my/)
 - [DeskSpace](http://www.deskspace.info/)
