@@ -33,7 +33,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
   - [Sarawak](#sarawak)
 - [Event](#event)
 - [Mobile App](#mobile-app)
-  - [Logistic](#logistic)
+  - [Public Transportation](#public-transportation)
 - [Open API](#open-api)
   - [Banking](#banking)
   - [E Commerce](#e-commerce)
@@ -202,8 +202,9 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [TechLadies Kuala Lumpur Coding Weekend 2017](https://techladies-kl-weekend1.peatix.com/)
 
 ## Mobile App
-### Logistic
+### Public Transportation
 - KTM MyRailtime ([Android](https://play.google.com/store/apps/details?id=com.app.ktm&hl=en) / [iOS](https://apps.apple.com/my/app/myrailtime/id1457433821))
+- KTMB MobTicket ([Android](https://play.google.com/store/apps/details?id=com.ktmb.mobileticketing) / [iOS](https://apps.apple.com/my/app/ktmb-mobticket/id1219799050))
 
 ## Open API
 ### Banking
