@@ -152,6 +152,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [Colony Mutiara Damansara](https://colony.work/mutiara-damansara/)
 - [Common Ground Mutiara Damansara](https://www.commonground.work/locations/my/petaling-jaya/mutiaradamansara)
 - [Common Ground Petaling Jaya](https://www.commonground.work/locations/my/petaling-jaya/jayaone)
+- [DreamSpace Sunway Geo Avenue](http://dreamspace.asia/)
 - [GASpace Puchong](http://gaspace.com.my/)
 - [H Space Bandar Utama](https://www.hspace.co/outlets/bandar-utama)
 - [H Space Kota Damansara](https://www.hspace.co/outlets/kota-damansara)
