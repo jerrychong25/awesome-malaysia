@@ -203,8 +203,10 @@ A curated list of awesome tech & engineering resources in Malaysia.
 
 ## Mobile App
 ### Transport
-- KTM MyRailtime ([Android](https://play.google.com/store/apps/details?id=com.app.ktm&hl=en) / [iOS](https://apps.apple.com/my/app/myrailtime/id1457433821))
+- KTM MyRailtime ([Android](https://play.google.com/store/apps/details?id=com.app.ktm) / [iOS](https://apps.apple.com/my/app/myrailtime/id1457433821))
 - KTMB MobTicket ([Android](https://play.google.com/store/apps/details?id=com.ktmb.mobileticketing) / [iOS](https://apps.apple.com/my/app/ktmb-mobticket/id1219799050))
+- LLM Traffic ([Android](https://play.google.com/store/apps/details?id=llm.oneping) / [iOS](https://apps.apple.com/my/app/llm-traffic/id1023798777))
+- MYairports ([Android](https://play.google.com/store/apps/details?id=com.mobile.mahb) / [iOS](https://apps.apple.com/my/app/myairports/id1352952170))
 
 ## Open API
 ### Banking
