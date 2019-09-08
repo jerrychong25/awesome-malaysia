@@ -19,6 +19,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
     - [TensorFlow](#tensorflow)
     - [Xamarin](#xamarin)
 - [Co-Working Space](#co-working-space)
+  - [Kedah](#kedah)
   - [Kuala Lumpur](#kuala-lumpur)
   - [Pahang](#pahang)
   - [Penang](#penang)
@@ -84,6 +85,8 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [Xamarin Malaysia Developers](https://www.facebook.com/groups/xamarinmydev)
 
 ## Co-Working Space
+### Kedah
+- [TRE Coworking Space](https://tre.work/)
 ### Kuala Lumpur
 - [Co-labs KL City Centre](https://co-labs.asia/location/co-labs-kl-city-centre)
 - [Colony Eco City](https://colony.work/kl-eco-city/)
