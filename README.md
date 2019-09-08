@@ -152,6 +152,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [Colony Mutiara Damansara](https://colony.work/mutiara-damansara/)
 - [Common Ground Mutiara Damansara](https://www.commonground.work/locations/my/petaling-jaya/mutiaradamansara)
 - [Common Ground Petaling Jaya](https://www.commonground.work/locations/my/petaling-jaya/jayaone)
+- [DreamSpace Sunway Geo Avenue](http://dreamspace.asia/)
 - [GASpace Puchong](http://gaspace.com.my/)
 - [H Space Bandar Utama](https://www.hspace.co/outlets/bandar-utama)
 - [H Space Kota Damansara](https://www.hspace.co/outlets/kota-damansara)
@@ -160,7 +161,16 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [Nomad](https://www.nomadmalaysia.com/)
 - [WORQ Subang](https://worq.space/coworking-space/subang/)
 ### Sarawak
+- [cent@cube](https://www.centacube.com.my/)
+- [DeskSpace](http://www.deskspace.info/)
+- [Genesis Coworking Space](https://genesis-coworking-space.business.site/)
+- [iCube Innovation](https://www.icubeinnovation.com.my/)
 - [MaGIC Co-Working Space Sarawak Campus](https://mymagic.my/facilities/sarawak-campus-co-working-space/)
+- [Sarikei Innovation Center](http://sarikeiinnovation.com/coworking/)
+- [SMA-TEGAS Digital Innovation Hub Bintulu](https://www.innovatesarawak.com/)
+- [SMA-TEGAS Digital Innovation Hub Kuching](https://www.innovatesarawak.com/)
+- [SMA-TEGAS Digital Innovation Hub Miri](https://www.innovatesarawak.com/)
+- [The Hills](https://thehills.my/)
 
 ## Event
 - [Cyberjaya Starup Summit 2019](https://www.cyberjayastartupsummit.com/)
