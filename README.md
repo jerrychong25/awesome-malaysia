@@ -23,6 +23,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
   - [Kedah](#kedah)
   - [Kelantan](#kelantan)
   - [Kuala Lumpur](#kuala-lumpur)
+  - [Labuan](#labuan)
   - [Pahang](#pahang)
   - [Penang](#penang)
   - [Perak](#perak)
@@ -129,6 +130,9 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [WeWork Mercu 2](https://www.wework.com/buildings/mercu-2--kuala-lumpur)
 - [WORQ KL Gateway](https://worq.space/coworking-space/kl-gateway/)
 - [WORQ TTDI](https://worq.space/coworking-space/ttdi/)
+### Labuan
+- [GASpace Labuan](http://gaspace.com.my/)
+- [Socowo](https://www.socowolabuan.com/)
 ### Pahang
 - [Starway Valley](https://starwayprofessional.com/starwayvalley/)
 ### Penang
