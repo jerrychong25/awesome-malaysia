@@ -20,6 +20,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
     - [Xamarin](#xamarin)
 - [Co-Working Space](#co-working-space)
   - [Kedah](#kedah)
+  - [Kelantan](#kelantan)
   - [Kuala Lumpur](#kuala-lumpur)
   - [Pahang](#pahang)
   - [Penang](#penang)
@@ -87,6 +88,8 @@ A curated list of awesome tech & engineering resources in Malaysia.
 ## Co-Working Space
 ### Kedah
 - [TRE Coworking Space](https://tre.work/)
+### Kelantan
+- [Drum & Desk](https://www.facebook.com/drumanddesk/)
 ### Kuala Lumpur
 - [Co-labs KL City Centre](https://co-labs.asia/location/co-labs-kl-city-centre)
 - [Colony Eco City](https://colony.work/kl-eco-city/)
