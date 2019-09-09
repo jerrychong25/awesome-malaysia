@@ -34,6 +34,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [Event](#event)
 - [Mobile App](#mobile-app)
   - [Transport](#transport)
+  - [Weather](#weather)
 - [Open API](#open-api)
   - [Banking](#banking)
   - [E Commerce](#e-commerce)
@@ -207,6 +208,8 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - KTMB MobTicket ([Android](https://play.google.com/store/apps/details?id=com.ktmb.mobileticketing) / [iOS](https://apps.apple.com/my/app/ktmb-mobticket/id1219799050))
 - LLM Traffic ([Android](https://play.google.com/store/apps/details?id=llm.oneping) / [iOS](https://apps.apple.com/my/app/llm-traffic/id1023798777))
 - MYairports ([Android](https://play.google.com/store/apps/details?id=com.mobile.mahb) / [iOS](https://apps.apple.com/my/app/myairports/id1352952170))
+### Weather
+- myCuaca ([Android](https://play.google.com/store/apps/details?id=my.gov.met.mycuaca) / [iOS](https://apps.apple.com/my/app/mycuaca/id955289490))
 
 ## Open API
 ### Banking
