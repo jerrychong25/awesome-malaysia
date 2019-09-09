@@ -33,6 +33,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
   - [Sarawak](#sarawak)
 - [Event](#event)
 - [Mobile App](#mobile-app)
+  - [Education](#education)
   - [Environment](#environment)
   - [Finance](#finance)
   - [Legal](#legal)
@@ -207,6 +208,12 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [TechLadies Kuala Lumpur Coding Weekend 2017](https://techladies-kl-weekend1.peatix.com/)
 
 ## Mobile App
+### Education
+- eLatihan KPDNHEP ([Android](https://play.google.com/store/apps/details?id=my.gov.oneappstore.eLatihanKPDNHEP))
+- myJakim ([Android](https://play.google.com/store/apps/details?id=com.crespro.myapp.jakimnew) / [iOS](https://apps.apple.com/my/app/myjakim/id579550653))
+- myMQR ([Android](https://play.google.com/store/apps/details?id=my.gov.onegovappstore.mymqa) / [iOS](https://apps.apple.com/hk/app/mymqr/id1093701794))
+- MyMTCP ([Android](https://play.google.com/store/apps/details?id=my.gov.onegovappstore.MyMTCP) / [iOS](https://apps.apple.com/us/app/mymtcp/id1251775498))
+- Smart Quran ([Android](https://play.google.com/store/apps/details?id=com.madcatworld.qurantestbed))
 ### Environment
 - InfoBencanaJKM ([Android](https://play.google.com/store/apps/details?id=com.jkmt.ppbanjir))
 - K3M ([Android](https://play.google.com/store/apps/details?id=com.ionicframework.rakam657960) / [iOS](https://apps.apple.com/my/app/k3m/id1243952281))
