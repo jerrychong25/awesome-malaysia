@@ -323,8 +323,8 @@ A curated list of awesome tech & engineering resources in Malaysia.
 
 ## Contributing
 
-Kindly refer [Contribution Guidelines](CONTRIBUTING.md) guide for details
+Kindly refer [Contribution Guidelines](CONTRIBUTING.md) guide for details.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
