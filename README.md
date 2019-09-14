@@ -33,6 +33,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
   - [Sarawak](#sarawak)
 - [Event](#event)
 - [Mobile App](#mobile-app)
+  - [Economic](#economic)
   - [Education](#education)
   - [Environment](#environment)
   - [Finance](#finance)
@@ -208,6 +209,8 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [TechLadies Kuala Lumpur Coding Weekend 2017](https://techladies-kl-weekend1.peatix.com/)
 
 ## Mobile App
+### Economic
+- MyEconomic Data ([Android](https://play.google.com/store/apps/details?id=my.gov.onegovappstore.myeconomicdata.keystore) / [iOS](https://apps.apple.com/us/app/myeconomic-data/id1169327567))
 ### Education
 - eLatihan KPDNHEP ([Android](https://play.google.com/store/apps/details?id=my.gov.oneappstore.eLatihanKPDNHEP))
 - myJakim ([Android](https://play.google.com/store/apps/details?id=com.crespro.myapp.jakimnew) / [iOS](https://apps.apple.com/my/app/myjakim/id579550653))
