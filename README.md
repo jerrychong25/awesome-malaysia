@@ -223,10 +223,18 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - MCG Info ([Android](https://play.google.com/store/apps/details?id=my.gov.onegovappstore.MCGInfo) / [iOS](https://apps.apple.com/us/app/mcg-info/id1386504779))
 - MyIPU ([Android](https://play.google.com/store/apps/details?id=app.eqmp.my.apimsv2) / [iOS](https://apps.apple.com/my/app/myipu/id1217372617))
 ### Finance
+- Boost App ([Android](https://play.google.com/store/apps/details?id=my.com.myboost) / [iOS](https://apps.apple.com/my/app/boost/id1235987570))
+- CIMB Clicks Malaysia ([Android](https://play.google.com/store/apps/details?id=com.cimbmalaysia) / [iOS](https://apps.apple.com/my/app/cimb-clicks-malaysia/id328803038))
 - e-Caruman ([Android](https://play.google.com/store/apps/details?id=gov.epf.employer) / [iOS](https://apps.apple.com/my/app/e-caruman/id1140720116))
 - i-Akaun ([Android](https://play.google.com/store/apps/details?id=com.epf.main) / [iOS](https://apps.apple.com/my/app/i-akaun/id915682756))
 - JKDM2u ([Android](https://play.google.com/store/apps/details?id=my.gov.customs.jkdm2u) / [iOS](https://apps.apple.com/my/app/jkdm2u/id977673179))
+- Maybank MY ([Android](https://play.google.com/store/apps/details?id=my.com.maybank2u.m2umobile) / [iOS](https://apps.apple.com/my/app/maybank-my/id1192180092))
+- Maybank QRPayBiz ([Android](https://play.google.com/store/apps/details?id=com.maybank.quickmerchant) / [iOS](https://apps.apple.com/my/app/maybank-qrpaybiz/id1320603823))
+- MaybankPay ([Android](https://play.google.com/store/apps/details?id=com.ionicframework.imxmbbmobile155700))
 - MyCukai ([Android](https://play.google.com/store/apps/details?id=my.gov.onegovappstore.MyCukai))
+- PB engage MY ([Android](https://play.google.com/store/apps/details?id=com.engage.pbb.pbengage2my.release) / [iOS](https://apps.apple.com/my/app/pb-engage-my/id1477329428))
+- Setel ([Android](https://play.google.com/store/apps/details?id=com.setel.mobile) / [iOS](https://apps.apple.com/my/app/setel/id1441424081))
+- Touch ‘n Go eWallet ([Android](https://play.google.com/store/apps/details?id=my.com.tngdigital.ewallet) / [iOS](https://apps.apple.com/my/app/touch-n-go-ewallet/id1344696702))
 ### Legal
 - Malaysian Bar ([Android](https://play.google.com/store/apps/details?id=my.org.malaysianbar.barcouncil) / [iOS](https://apps.apple.com/my/app/malaysian-bar/id1088768768))
 ### Tourism
