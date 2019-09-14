@@ -40,6 +40,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
   - [Finance](#finance)
   - [Housing](#housing)
   - [Legal](#legal)
+  - [Logistic](#logistic)
   - [Tourism](#tourism)
   - [Transport](#transport)
   - [Utility](#utility)
@@ -245,6 +246,9 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - PR1MA ([Android](https://play.google.com/store/apps/details?id=com.pr1ma.hubs.mobile) / [iOS](https://apps.apple.com/my/app/malaysian-bar/id1088768768))
 ### Legal
 - Malaysian Bar ([Android](https://play.google.com/store/apps/details?id=my.org.malaysianbar.barcouncil) / [iOS](https://apps.apple.com/my/app/malaysian-bar/id1088768768))
+### Logistic
+- GDEX ([Android](https://play.google.com/store/apps/details?id=com.gdexpress.customerapp) / [iOS](https://apps.apple.com/my/app/gdex/id1399059595))
+- POS Malaysia ([Android](https://play.google.com/store/apps/details?id=my.com.pos.posmobile.posmobileapps) / [iOS](https://apps.apple.com/my/app/pos-malaysia-mobile-apps/id1325952009))
 ### Tourism
 - myMOTAC ([Android](https://play.google.com/store/apps/details?id=my.gov.onegovappstore.mymotac) / [iOS](https://apps.apple.com/us/app/mymotac/id1091916021))
 ### Transport
