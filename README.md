@@ -40,6 +40,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
   - [Legal](#legal)
   - [Tourism](#tourism)
   - [Transport](#transport)
+  - [Utility](#utility)
   - [Weather](#weather)
 - [Open API](#open-api)
   - [Banking](#banking)
@@ -253,6 +254,10 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - Smart Selangor Parking ([Android](https://play.google.com/store/apps/details?id=my.com.lits.smartselangorparking) / [iOS](https://apps.apple.com/my/app/smart-selangor-parking/id1369995577))
 - TaLMAP - Traffic Light Monitoring Application ([Android](https://play.google.com/store/apps/details?id=my.mopps.talmap) / [iOS](https://apps.apple.com/my/app/talmap-selangor/id1351298616))
 - TBS-BTS ([Android](https://play.google.com/store/apps/details?id=tbsapp.tbsbts) / [iOS](https://apps.apple.com/my/app/tbs-bts/id1190272484))
+### Utility
+- Air Selangor ([Android](https://play.google.com/store/apps/details?id=com.airselangor.cris.mobile) / [iOS](https://apps.apple.com/my/app/air-selangor/id1375391512))
+- Indah Water ([Android](https://play.google.com/store/apps/details?id=app2.iwk.com.my) / [iOS](https://apps.apple.com/my/app/indah-water/id1447128808))
+- myTNB ([Android](https://play.google.com/store/apps/details?id=com.mytnb.mytnb) / [iOS](https://apps.apple.com/my/app/mytnb-new/id1297089591))
 ### Weather
 - myCuaca ([Android](https://play.google.com/store/apps/details?id=my.gov.met.mycuaca) / [iOS](https://apps.apple.com/my/app/mycuaca/id955289490))
 
