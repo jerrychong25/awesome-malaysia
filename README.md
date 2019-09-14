@@ -321,6 +321,10 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [Awesome iOS](https://github.com/vsouza/awesome-ios)
 - [Awesome Co-Working](https://github.com/ahmadnassri/awesome-coworking)
 
+## Contributing
+
+Kindly refer [Contribution Guidelines](CONTRIBUTING.md) guide for details
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
