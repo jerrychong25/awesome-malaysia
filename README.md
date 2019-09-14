@@ -37,6 +37,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
   - [Education](#education)
   - [Environment](#environment)
   - [Finance](#finance)
+  - [Housing](#housing)
   - [Legal](#legal)
   - [Tourism](#tourism)
   - [Transport](#transport)
@@ -236,6 +237,8 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - PB engage MY ([Android](https://play.google.com/store/apps/details?id=com.engage.pbb.pbengage2my.release) / [iOS](https://apps.apple.com/my/app/pb-engage-my/id1477329428))
 - Setel ([Android](https://play.google.com/store/apps/details?id=com.setel.mobile) / [iOS](https://apps.apple.com/my/app/setel/id1441424081))
 - Touch ‘n Go eWallet ([Android](https://play.google.com/store/apps/details?id=my.com.tngdigital.ewallet) / [iOS](https://apps.apple.com/my/app/touch-n-go-ewallet/id1344696702))
+### Housing
+- PR1MA ([Android](https://play.google.com/store/apps/details?id=com.pr1ma.hubs.mobile) / [iOS](https://apps.apple.com/my/app/malaysian-bar/id1088768768))
 ### Legal
 - Malaysian Bar ([Android](https://play.google.com/store/apps/details?id=my.org.malaysianbar.barcouncil) / [iOS](https://apps.apple.com/my/app/malaysian-bar/id1088768768))
 ### Tourism
