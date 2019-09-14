@@ -232,11 +232,18 @@ A curated list of awesome tech & engineering resources in Malaysia.
 ### Tourism
 - myMOTAC ([Android](https://play.google.com/store/apps/details?id=my.gov.onegovappstore.mymotac) / [iOS](https://apps.apple.com/us/app/mymotac/id1091916021))
 ### Transport
+- IRS - Intelligent Response Selangor ([Android](https://play.google.com/store/apps/details?id=com.mbi.irs) / [iOS](https://apps.apple.com/my/app/intelligent-response-selangor/id1292526017))
+- JomParking ([Android](https://play.google.com/store/apps/details?id=com.appcable.jomparking.app) / [iOS](https://apps.apple.com/my/app/jomparking/id990623185))
 - KTM MyRailtime ([Android](https://play.google.com/store/apps/details?id=com.app.ktm) / [iOS](https://apps.apple.com/my/app/myrailtime/id1457433821))
 - KTMB MobTicket ([Android](https://play.google.com/store/apps/details?id=com.ktmb.mobileticketing) / [iOS](https://apps.apple.com/my/app/ktmb-mobticket/id1219799050))
 - LLM Traffic ([Android](https://play.google.com/store/apps/details?id=llm.oneping) / [iOS](https://apps.apple.com/my/app/llm-traffic/id1023798777))
 - MYairports ([Android](https://play.google.com/store/apps/details?id=com.mobile.mahb) / [iOS](https://apps.apple.com/my/app/myairports/id1352952170))
+- MyEG ([Android](https://play.google.com/store/apps/details?id=mf.myeg.com.eservicemobile))
 - mySPAD ([Android](https://play.google.com/store/apps/details?id=com.crespro.myapp.spad) / [iOS](https://apps.apple.com/my/app/myspad/id694977876))
+- ParkEasy ([Android](https://play.google.com/store/apps/details?id=com.pixelbyte.parkeasy_android) / [iOS](https://apps.apple.com/my/app/parkeasy-reserve-parking/id1093077813))
+- SITS - Selangor Intelligent Transport System ([Android](https://play.google.com/store/apps/details?id=com.geoxspot.rider.mbi) / [iOS](https://apps.apple.com/my/app/smart-selangor-sits/id1322316467))
+- Smart Selangor Parking ([Android](https://play.google.com/store/apps/details?id=my.com.lits.smartselangorparking) / [iOS](https://apps.apple.com/my/app/smart-selangor-parking/id1369995577))
+- TaLMAP - Traffic Light Monitoring Application ([Android](https://play.google.com/store/apps/details?id=my.mopps.talmap) / [iOS](https://apps.apple.com/my/app/talmap-selangor/id1351298616))
 - TBS-BTS ([Android](https://play.google.com/store/apps/details?id=tbsapp.tbsbts) / [iOS](https://apps.apple.com/my/app/tbs-bts/id1190272484))
 ### Weather
 - myCuaca ([Android](https://play.google.com/store/apps/details?id=my.gov.met.mycuaca) / [iOS](https://apps.apple.com/my/app/mycuaca/id955289490))
