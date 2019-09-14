@@ -33,6 +33,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
   - [Sarawak](#sarawak)
 - [Event](#event)
 - [Mobile App](#mobile-app)
+  - [Community](#community)
   - [Economic](#economic)
   - [Education](#education)
   - [Environment](#environment)
@@ -211,6 +212,9 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [TechLadies Kuala Lumpur Coding Weekend 2017](https://techladies-kl-weekend1.peatix.com/)
 
 ## Mobile App
+### Community
+- Communities Online (COOL) ([Android](https://play.google.com/store/apps/details?id=com.smartsiti.cool) / [iOS](https://apps.apple.com/my/app/communities-online-cool/id1303421134))
+- i-Tegur ([Android](https://play.google.com/store/apps/details?id=my.kpkt.cakna) / [iOS](https://apps.apple.com/my/app/ikepoh/id1072642588))
 ### Economic
 - MyEconomic Data ([Android](https://play.google.com/store/apps/details?id=my.gov.onegovappstore.myeconomicdata.keystore) / [iOS](https://apps.apple.com/us/app/myeconomic-data/id1169327567))
 ### Education
