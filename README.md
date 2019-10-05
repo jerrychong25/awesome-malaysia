@@ -12,6 +12,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
     - [JavaScript](#javascript)
   - [By Platforms](#by-platforms)
     - [AWS](#aws)
+    - [Azure](#azure)
     - [GCP](#gcp)
   - [By Technology](#by-technology)
     - [Android](#android)
@@ -90,6 +91,8 @@ A curated list of awesome tech & engineering resources in Malaysia.
 ### By Platforms
 #### AWS
 - [AWS User Group - Malaysia](https://www.facebook.com/groups/awsugmy)
+#### Azure
+- [Azure Community Malaysia (ACM)](https://www.meetup.com/AzureMY/)
 #### GCP
 - [Google Cloud Developer Community Kuala Lumpur](https://www.facebook.com/groups/132231637505820)
 
