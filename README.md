@@ -237,6 +237,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - Boost App ([Android](https://play.google.com/store/apps/details?id=my.com.myboost) / [iOS](https://apps.apple.com/my/app/boost/id1235987570))
 - CIMB Clicks Malaysia ([Android](https://play.google.com/store/apps/details?id=com.cimbmalaysia) / [iOS](https://apps.apple.com/my/app/cimb-clicks-malaysia/id328803038))
 - e-Caruman ([Android](https://play.google.com/store/apps/details?id=gov.epf.employer) / [iOS](https://apps.apple.com/my/app/e-caruman/id1140720116))
+- Fave ([Android](https://play.google.com/store/apps/details?id=com.kfit.fave) / [iOS](https://apps.apple.com/my/app/fave-deals-cashback/id1135179082))
 - i-Akaun ([Android](https://play.google.com/store/apps/details?id=com.epf.main) / [iOS](https://apps.apple.com/my/app/i-akaun/id915682756))
 - JKDM2u ([Android](https://play.google.com/store/apps/details?id=my.gov.customs.jkdm2u) / [iOS](https://apps.apple.com/my/app/jkdm2u/id977673179))
 - Maybank MY ([Android](https://play.google.com/store/apps/details?id=my.com.maybank2u.m2umobile) / [iOS](https://apps.apple.com/my/app/maybank-my/id1192180092))
@@ -244,6 +245,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - MaybankPay ([Android](https://play.google.com/store/apps/details?id=com.ionicframework.imxmbbmobile155700))
 - MyCukai ([Android](https://play.google.com/store/apps/details?id=my.gov.onegovappstore.MyCukai))
 - PB engage MY ([Android](https://play.google.com/store/apps/details?id=com.engage.pbb.pbengage2my.release) / [iOS](https://apps.apple.com/my/app/pb-engage-my/id1477329428))
+- Razer Pay ([Android](https://play.google.com/store/apps/details?id=com.mol.molwallet) / [iOS](https://apps.apple.com/my/app/razer-pay/id1061638049))
 - Setel ([Android](https://play.google.com/store/apps/details?id=com.setel.mobile) / [iOS](https://apps.apple.com/my/app/setel/id1441424081))
 - Touch ‘n Go eWallet ([Android](https://play.google.com/store/apps/details?id=my.com.tngdigital.ewallet) / [iOS](https://apps.apple.com/my/app/touch-n-go-ewallet/id1344696702))
 ### Food
