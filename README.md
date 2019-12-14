@@ -141,6 +141,7 @@ A curated list of awesome tech & engineering resources in Malaysia.
 - [Common Ground TTDI](https://www.commonground.work/locations/my/kuala-lumpur/menara-ken-ttdi)
 - [DOJO KL](https://dojokl.com/)
 - [GASpace Kuala Lumpur](http://gaspace.com.my/)
+- [Found8 KL Sentral](https://www.found8.com/)
 - [Komune Bangsar South](https://www.komunecowork.com/the-vertical-bangsar-south)
 - [Komune KLCC](https://www.komunecowork.com/wisma-uoa-2-klcc)
 - [Unispace KL Sentral](https://www.unispace.my/kl-sentral)
