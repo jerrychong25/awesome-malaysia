@@ -1,6 +1,6 @@
-# 🌈 Awesome Malaysia
+# 🌈 Awesome Malaysia 🌈
 - - -
-A curated list of awesome tech resources in Malaysia.
+A curated list of awesome tech resources in Malaysia. By Communities For Communities!
 
 - [Community](#community)
   - [By Field](#by-field)
