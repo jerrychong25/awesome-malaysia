@@ -8,8 +8,9 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
     - [Startup](#startup)
   - [By Languages](#by-languages)
     - [Angular](#angular)
-    - [React](#react)
     - [JavaScript](#javascript)
+    - [Python](#python)
+    - [React](#react)
   - [By Platforms](#by-platforms)
     - [AWS](#aws)
     - [Azure](#azure)
@@ -83,10 +84,12 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 ### By Languages
 #### Angular
 - [Angular Malaysia](https://www.facebook.com/groups/angular.malaysia)
-#### React
-- [ReactJS ReactNative Malaysia](https://www.facebook.com/groups/766491493448337)
 #### JavaScript
 - [KualaLumpurJS](https://www.facebook.com/groups/kualalumpurjs/)
+#### Python
+- [Python User Group Malaysia](https://www.facebook.com/groups/python.malaysia/)
+#### React
+- [ReactJS ReactNative Malaysia](https://www.facebook.com/groups/766491493448337)
 
 ### By Platforms
 #### AWS
