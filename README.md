@@ -299,6 +299,7 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [OCBC API Store](https://api.ocbc.com/store)
 - [Standard Chartered aXess](https://axess.sc.com/)
 ### E Commerce
+- [EasyStore](https://developers.easystore.co/docs/api/getting-started)
 - [Lazada Open Platform](https://open.lazada.com/)
 - [Lelong.my](http://help.lelong.my/api/)
 - [Shopee Open Platform](https://open.shopee.com/documents?module=63&type=2&id=52)
