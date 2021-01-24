@@ -1,4 +1,4 @@
-# Awesome Malaysia [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Malaysia [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 - - -
 A curated list of awesome tech resources in Malaysia. By Communities For Communities!
 
