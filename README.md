@@ -256,7 +256,7 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - PB engage MY ([Android](https://play.google.com/store/apps/details?id=com.engage.pbb.pbengage2my.release) / [iOS](https://apps.apple.com/my/app/pb-engage-my/id1477329428))
 - Razer Pay ([Android](https://play.google.com/store/apps/details?id=com.mol.molwallet) / [iOS](https://apps.apple.com/my/app/razer-pay/id1061638049))
 - Setel ([Android](https://play.google.com/store/apps/details?id=com.setel.mobile) / [iOS](https://apps.apple.com/my/app/setel/id1441424081))
-- Touch ‘n Go eWallet ([Android](https://play.google.com/store/apps/details?id=my.com.tngdigital.ewallet) / [iOS](https://apps.apple.com/my/app/touch-n-go-ewallet/id1344696702))
+- TnG eWallet ([Android](https://play.google.com/store/apps/details?id=my.com.tngdigital.ewallet) / [iOS](https://apps.apple.com/my/app/touch-n-go-ewallet/id1344696702))
 ### Food
 - dahmakan ([Android](https://play.google.com/store/apps/details?id=com.app.makano) / [iOS](https://apps.apple.com/my/app/dahmakan/id1030383844))
 - Foodpanda ([Android](https://play.google.com/store/apps/details?id=com.global.foodpanda.android) / [iOS](https://apps.apple.com/us/app/foodpanda-food-delivery/id758103884))
