@@ -147,7 +147,7 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [Common Ground Bukit Bintang](https://www.commonground.work/locations/my/kuala-lumpur/bukit-bintang) - Level 24 & 25, 198 Menara Worldwide, Jalan Bukit Bintang.
 - [Common Ground KL Eco City](https://www.commonground.work/locations/my/kuala-lumpur/mid-valley) - Levels 15-19, Boutique Office 1 (B01-C), Menara 2, KL Eco City, No 3, Jalan Bangsar.
 - [Common Ground KL Sentral](https://www.commonground.work/locations/my/kuala-lumpur/klsentral) - Unit 39-02 (East Wing), Q Sentral, 2A, Jalan Stesen Sentral 2, Kuala Lumpur Sentral.
-- [Common Ground Mont Kiara](https://www.commonground.work/locations/my/kuala-lumpur/wisma-mont-kiara) - Level 13A Wisma Mont’ Kiara, No 1 Jalan Kiara, Mont’ Kiara.
+- [Common Ground Mont Kiara](https://www.commonground.work/locations/my/kuala-lumpur/wisma-mont-kiara) - Level 13A Wisma Mont Kiara, No 1 Jalan Kiara, Mont Kiara.
 - [Common Ground TTDI](https://www.commonground.work/locations/my/kuala-lumpur/menara-ken-ttdi) - Level 11, Menara KEN TTDI, 37, Jalan Burhanuddin Helmi, Taman Tun Dr. Ismail.
 - [DOJO KL](https://dojokl.com/) - Level 1, Menara Amplewest, 6 Jalan P Ramlee.
 - [GASpace Kuala Lumpur](http://gaspace.com.my/) - 16-10, Tower A, Vertical Business Suite, Avenue 3, Bangsar South City, No.8, Jalan Kerinchi.
