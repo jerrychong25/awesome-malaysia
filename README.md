@@ -262,7 +262,7 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - Foodpanda ([Android](https://play.google.com/store/apps/details?id=com.global.foodpanda.android) / [iOS](https://apps.apple.com/us/app/foodpanda-food-delivery/id758103884))
 - Grab ([Android](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger) / [iOS](https://apps.apple.com/sg/app/grab-app/id647268330))
 ### Housing
-- PR1MA ([Android](https://play.google.com/store/apps/details?id=com.pr1ma.hubs.mobile) / [iOS](https://apps.apple.com/my/app/malaysian-bar/id1088768768))
+- PR1MA ([Android](https://play.google.com/store/apps/details?id=com.pr1ma.hubs.mobile) / [iOS](https://apps.apple.com/my/app/pr1ma/id1113892387))
 ### Legal
 - Malaysian Bar ([Android](https://play.google.com/store/apps/details?id=my.org.malaysianbar.barcouncil) / [iOS](https://apps.apple.com/my/app/malaysian-bar/id1088768768))
 ### Logistic
