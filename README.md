@@ -218,7 +218,7 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 
 ## Event
 - [Cyberjaya Starup Summit 2019](https://www.cyberjayastartupsummit.com/)
-- [Firebase Summit Extended Kuala Lumpur 2018](https://events.gdgkl.org/devfest/)
+- [Firebase Summit Extended Kuala Lumpur 2018](https://devfestxfirebase.peatix.com/)
 - GDG DevFest Kuala Lumpur ([2013](https://devfestkl.appspot.com/), [2018](https://events.gdgkl.org/devfest/), [2019](https://www.meetup.com/GDGKualaLumpur/events/264018280/))
 - Google I/O Extended Kuala Lumpur ([2017](https://events.gdgkl.org/ioxkl17/), [2018](https://events.gdgkl.org/io/), [2019](https://events.gdgkl.dev/iox/))
 - [Ng-My 2019](https://2019.ng-my.org/)
