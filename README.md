@@ -212,8 +212,8 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [MaGIC Co-Working Space Sarawak Campus](https://mymagic.my/facilities/sarawak-campus-co-working-space/) - Block B, Borneo744, Jalan Semangat, Bintawa Industrial Estate, Kuching.
 - [Sarikei Innovation Center](http://sarikeiinnovation.com/coworking/) - Jalan Nyelong, Bandar Sarikei, Sarikei.
 - [SMA-TEGAS Digital Innovation Hub Bintulu](https://www.innovatesarawak.com/) - A3-2-1 - A3-3-3 and A3-2-3a, Second Floor, Block A3, North Court, Naim Street Mall, Bintulu Paragon, Bintulu.
-- [SMA-TEGAS Digital Innovation Hub Kuching](https://www.innovatesarawak.com/) - B325-B329, Level 3, Block B2, ICOM Square, Kuching.
-- [SMA-TEGAS Digital Innovation Hub Miri](https://www.innovatesarawak.com/) - A-2-29 - A-2-30 - A-2-31A and A-2-31B, Second Floor, Miri Times Square @ Marina ParkCity, Miri.
+- SMA-TEGAS Digital Innovation Hub Kuching - B325-B329, Level 3, Block B2, ICOM Square, Kuching.
+- SMA-TEGAS Digital Innovation Hub Miri - A-2-29 - A-2-30 - A-2-31A and A-2-31B, Second Floor, Miri Times Square @ Marina ParkCity, Miri.
 - [The Hills](https://thehills.my/) - No 8, UG Floor, The Hills Jalan Bukit Mata, Interhill Place, Kuching.
 
 ## Event
