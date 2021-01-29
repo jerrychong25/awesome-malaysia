@@ -201,8 +201,6 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [GASpace Kota Kinabalu](http://gaspace.com.my/) - Lot 1-1-6, 1st Floor, Block B, Kolam Centre Phase 2, Hilltop, Luyang, Jalan Lintas.
 - [GASpace Sandakan](http://gaspace.com.my/) - Lot 7, 1st Floor, Block M, Bandar Letat Jaya, Batu 3 1/2, Jalan Lintas Utara.
 - [Podders](https://poddersmy.business.site/) - J-1-3, 88 Marketplace, Kepayan Commercial Centre, Kota Kinabalu.
-- [SOVO Kota Kinabalu](http://www.sovo.com.my/) - Lot 3-4, 3rd Floor, Lintas Platinum, Kota Kinabalu.
-- [SOVO Miri](http://www.sovo.com.my/) - A-2-09, 2nd Floor, Block A, Miri Times Square, Marina Parkcity, Miri.
 - [Toojou Opis Co-Working Space](https://www.toojou.com/) - 12, Jalan Masjid Lama, Bandaran Berjaya, Kota Kinabalu.
 ### Sarawak
 - [cent@cube](https://www.centacube.com.my/) - 1st Floor of Sublot 35, Riveredge Commercial Centre, Jalan Datuk Patinggi Haji Abdul, Rahman Yakub, Kuching.
