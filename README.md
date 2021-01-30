@@ -150,7 +150,7 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [Common Ground Mont Kiara](https://www.commonground.work/locations/my/kuala-lumpur/wisma-mont-kiara) - Level 13A Wisma Mont Kiara, No 1 Jalan Kiara, Mont Kiara.
 - [Common Ground TTDI](https://www.commonground.work/locations/my/kuala-lumpur/menara-ken-ttdi) - Level 11, Menara KEN TTDI, 37, Jalan Burhanuddin Helmi, Taman Tun Dr. Ismail.
 - [DOJO KL](https://dojokl.com/) - Level 1, Menara Amplewest, 6 Jalan P Ramlee.
-- [GASpace Kuala Lumpur](http://gaspace.com.my/) - 16-10, Tower A, Vertical Business Suite, Avenue 3, Bangsar South City, No.8, Jalan Kerinchi.
+- GASpace Kuala Lumpur - 16-10, Tower A, Vertical Business Suite, Avenue 3, Bangsar South City, No.8, Jalan Kerinchi.
 - [H Space Bangsar South](https://hspace.co/workspace/bangsar-south/) - No 8, Suite 28-1, Level 28 Vertical Corporate Office Tower B Bangsar South City, Jalan Kerinchi, Bangsar South.
 - [Found8 KL Sentral](https://www.found8.com/) - 5, East Wing, Level, 3, Jalan Stesen Sentral, Kuala Lumpur Sentral.
 - [Komune Bangsar South](https://www.komunecowork.com/the-vertical-bangsar-south) - Level 8, Vertical Corporate Tower B, Avenue 10, The Vertical, No. 8, Jalan Kerinchi, Bangsar South City.
@@ -161,7 +161,7 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [WORQ KL Gateway](https://worq.space/coworking-space/kl-gateway/) - Unit 3.07, Level 3, KL Gateway Mall, No. 2, Jalan Kerinchi, Pantai Dalam.
 - [WORQ TTDI](https://worq.space/coworking-space/ttdi/) - Unit 1.02, Glo Damansara, No. 699, Jalan Damansara.
 ### Labuan
-- [GASpace Labuan](http://gaspace.com.my/) - Unit No.3A-2, Level 3A, Office Lot, Labuan Times Square, Jalan Merdeka.
+- GASpace Labuan - Unit No.3A-2, Level 3A, Office Lot, Labuan Times Square, Jalan Merdeka.
 - [Socowo](https://www.socowolabuan.com/) - Office Unit 9E, Main Office Tower, Financial Park Labuan Complex, Jalan Merdeka.
 ### Pahang
 - [Starway Valley](https://starwayprofessional.com/starwayvalley/) - A-29, Second Floor, Lorong Seri Kuantan 82, Jalan Beserah.
@@ -189,7 +189,7 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [Common Ground Mutiara Damansara](https://www.commonground.work/locations/my/petaling-jaya/mutiaradamansara) - Level 16 & 17, Nucleus Tower, No. 10, Jalan PJU 7/6, Mutiara Damansara, Petaling Jaya. 
 - [Common Ground Petaling Jaya](https://www.commonground.work/locations/my/petaling-jaya/jayaone) - G.016, The Square, Jaya One, 72A, Jalan Universiti, Seksyen 13, Petaling Jaya.
 - [DreamSpace Sunway Geo Avenue](http://dreamspace.asia/) - Jalan Lagoon Selatan, Subang Jaya.
-- [GASpace Puchong](http://gaspace.com.my/) - e-Dynasty Building, No.15-1, Jalan OP1/2, Pusat Perdagangan One Puchong, Off Jalan Puchong, Puchong.
+- GASpace Puchong - e-Dynasty Building, No.15-1, Jalan OP1/2, Pusat Perdagangan One Puchong, Off Jalan Puchong, Puchong.
 - [H Space Bandar Utama](https://hspace.co/workspace/bandar-utama-kpmg-tower/) - Level 6.06, KPMG Tower, 8, First Avenue, Bandar Utama, Petaling Jaya.
 - [H Space Workwell @ Future of Wellness](https://www.hspace.co/outlets/kota-damansara) - 22A, 26 & 28, Jalan PJU 5/4, Dataran Sunway, Kota Damansara.
 - [MaGIC Co-Working Space Cyberjaya Campus](https://mymagic.my/facilities/cyberjaya-campus-co-working-space/) - Block 3730 Persiaran APEC, Cyberjaya.
@@ -198,8 +198,8 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 ### Sabah
 - [+ERO-X](http://www.erox.com.my/) - 15-1, Lot 34, 1st Floor Block D, Lorong Singgah Mata 2, Asia City, Kota Kinabalu.
 - [E Space](https://www.e-space.com.my/) - Mile 5.5, Tuaran Road, Off Kolombong Road, Kota Kinabalu.
-- [GASpace Kota Kinabalu](http://gaspace.com.my/) - Lot 1-1-6, 1st Floor, Block B, Kolam Centre Phase 2, Hilltop, Luyang, Jalan Lintas.
-- [GASpace Sandakan](http://gaspace.com.my/) - Lot 7, 1st Floor, Block M, Bandar Letat Jaya, Batu 3 1/2, Jalan Lintas Utara.
+- GASpace Kota Kinabalu - Lot 1-1-6, 1st Floor, Block B, Kolam Centre Phase 2, Hilltop, Luyang, Jalan Lintas.
+- GASpace Sandakan - Lot 7, 1st Floor, Block M, Bandar Letat Jaya, Batu 3 1/2, Jalan Lintas Utara.
 - [Podders](https://poddersmy.business.site/) - J-1-3, 88 Marketplace, Kepayan Commercial Centre, Kota Kinabalu.
 - [Toojou Opis Co-Working Space](https://www.toojou.com/) - 12, Jalan Masjid Lama, Bandaran Berjaya, Kota Kinabalu.
 ### Sarawak
