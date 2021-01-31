@@ -188,7 +188,6 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [Colony Mutiara Damansara](https://colony.work/mutiara-damansara/) - Level 8, KYM Tower, 8, Jalan PJU 7/6, Mutiara Damansara, Petaling Jaya.
 - [Common Ground Mutiara Damansara](https://www.commonground.work/locations/my/petaling-jaya/mutiaradamansara) - Level 16 & 17, Nucleus Tower, No. 10, Jalan PJU 7/6, Mutiara Damansara, Petaling Jaya. 
 - [Common Ground Petaling Jaya](https://www.commonground.work/locations/my/petaling-jaya/jayaone) - G.016, The Square, Jaya One, 72A, Jalan Universiti, Seksyen 13, Petaling Jaya.
-- [DreamSpace Sunway Geo Avenue](http://dreamspace.asia/) - Jalan Lagoon Selatan, Subang Jaya.
 - GASpace Puchong - e-Dynasty Building, No.15-1, Jalan OP1/2, Pusat Perdagangan One Puchong, Off Jalan Puchong, Puchong.
 - [H Space Bandar Utama](https://hspace.co/workspace/bandar-utama-kpmg-tower/) - Level 6.06, KPMG Tower, 8, First Avenue, Bandar Utama, Petaling Jaya.
 - [H Space Workwell @ Future of Wellness](https://www.hspace.co/outlets/kota-damansara) - 22A, 26 & 28, Jalan PJU 5/4, Dataran Sunway, Kota Damansara.
