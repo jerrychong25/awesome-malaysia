@@ -120,7 +120,7 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 ### Johor
 - [52ST](https://www.facebook.com/52stspace/) - 46-2, Jalan Setia Tropika 1/18, Setia Tropika.
 - [Big Wheel Mount Austin](http://www.bigwheel.com.my/) - Iskandar Flagship A with Matured Development.
-- [Big Wheel Sunway Iskandar](http://www.bigwheel.com.my/) - Iskandar Flagship B New Business District Centre.
+- Big Wheel Sunway Iskandar - Iskandar Flagship B New Business District Centre.
 - [DreamSpace 1Terbau](http://dreamspace.asia/) - B-03-14, 1Tebrau, Jalan Tebrau, Off Jalan Seri Setanggi, Taman Seri Setanggi.
 - [DreamSpace Puteri Harbour](http://dreamspace.asia/puteri-harbour/) - Unit 1-2, Teega Tower, Jalan Laksamana 1, Puteri Harbour.
 - [GASpace Johor Bahru](http://gaspace.com.my/) - B-04-14, 1 Tebrau, Jalan Tebrau, Off Jalan Seri Setanggi, Taman Seri Setanggi.
