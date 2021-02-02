@@ -167,7 +167,7 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [Starway Valley](https://starwayprofessional.com/starwayvalley/) - A-29, Second Floor, Lorong Seri Kuantan 82, Jalan Beserah.
 ### Penang
 - [aCAT Penang](https://acatpenang.com/coworking-space/) - Level 3, Wisma Yeap Chor Ee,16 Gat Lebuh Cina.
-- [Bersama-sama](http://www.bersama.my/) 26B, Jalan Todak 2, Seberang Jaya.
+- [Bersama-sama](http://www.bersama.my/) - 26B, Jalan Todak 2, Seberang Jaya.
 - [Cohere](https://cohere.my/) - No. 51-1, Jalan Icon City, Icon City, Bukit Mertajam.
 - [Common Ground George Town](https://www.commonground.work/locations/my/penang/penang/moulmeineriseshoppe) - Level 2, Moulmein Rise Shoppes, No. 9, Jalan Moulmein, George Town.
 - [Habitat](https://habitat-cowork.com/) - 48A (1st & 2nd), Lorong Tanjung Aman 2, Taman Tanjung Aman, Butterworth.
