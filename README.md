@@ -3,7 +3,7 @@
 A curated list of awesome tech resources in Malaysia. By Communities For Communities!
 
 ## Contents
-- [Community](#community)
+- [Communities](#communities)
   - [By Field](#by-field)
     - [Software Engineering](#software-engineering)
     - [Startup](#startup)
@@ -64,7 +64,7 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
   - [Government](#government)
   - [International Organization](#international-organization)
 
-## Community
+## Communities
 ### By Field
 #### Software Engineering
 - [JuniorDev MY](https://www.facebook.com/groups/2289983211014841/)
