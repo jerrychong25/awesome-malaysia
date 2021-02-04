@@ -52,14 +52,14 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
   - [Utility](#utility)
   - [Weather](#weather)
 - [Open API](#open-api)
-  - [Banking](#banking)
-  - [E Commerce](#e-commerce)
-  - [Logistic](#logistic)
-  - [News](#news)
-  - [Payment](#payment)
-  - [Telecommunication](#telecommunication)
-  - [Weather](#weather)
-  - [Other](#other)
+  - [Banking API](#banking-api)
+  - [E Commerce API](#e-commerce-api)
+  - [Logistic API](#logistic-api)
+  - [News API](#news-api)
+  - [Payment API](#payment-api)
+  - [Telecommunication API](#telecommunication-api)
+  - [Weather API](#weather-api)
+  - [Other API](#other-api)
 - [Open Data](#open-data)
   - [Government](#government)
   - [International Organization](#international-organization)
@@ -289,40 +289,39 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - myCuaca ([Android](https://play.google.com/store/apps/details?id=my.gov.met.mycuaca) / [iOS](https://apps.apple.com/my/app/mycuaca/id955289490))
 
 ## Open API
-### Banking
+### Banking API
 - [BNM Open API](https://api.bnm.gov.my/portal)
 - [Maybank Sandbox](https://maybanksandbox.com/)
 - [OCBC API Store](https://api.ocbc.com/store)
 - [Standard Chartered aXess](https://axess.sc.com/)
-### E Commerce
+### E Commerce API
 - [EasyStore](https://developers.easystore.co/docs/api/getting-started)
 - [Lazada Open Platform](https://open.lazada.com/)
 - [Lelong.my](http://help.lelong.my/api/)
 - [Shopee Open Platform](https://open.shopee.com/documents?module=63&type=2&id=52)
-### Logistic
+### Logistic API
 - [EasyParcel](https://easyparcel.com/my/en/apilanding/)
 - [DHL Parcel](https://www.logistics.dhl/my-en/home/all-products-and-solutions/technology-platform-integration/request-api-access.html)
 - [MrSpeedy](https://mrspeedy.my/business-api/doc)
 - [Pgeon](https://www.pgeon.delivery/api-request-info)
 - [UPS Developer Kit](https://www.ups.com/my/en/services/technology-integration/developer-api.page)
-### News
+### News API
 - [News API](https://newsapi.org/s/malaysia-news-api)
-### Payment
+### Payment API
 - [Billplz](https://www.billplz.com/api)
 - [Paypal](https://developer.paypal.com/docs/)
 - [Revenue Monster](https://doc.revenuemonster.my/)
 - [senangPay](https://guide.senangpay.my/manual-integration-api/)
 - [Stripe](https://stripe.com/docs/api)
 - [TransferWise](https://api-docs.transferwise.com/)
-### Telecommunication
+### Telecommunication API
 - [numverify](https://numverify.com/)
-### Weather
+### Weather API
 - [Malaysian Meteorological Department Web Service API](https://api.met.gov.my/)
-### Other
+### Other API
 - [Malaysia Prayer Time API](https://api-waktusolat.azurewebsites.net/swagger/ui/index#/)
 - [Open Innovation Platform API Store](https://store.oip.tm.com.my/api-store)
 - [Solat Jakim API](https://api.azanpro.com/)
-
 ## Open Data
 ### Government
 - [Air Pollutant Index of Malaysia](http://apims.doe.gov.my/public_v2/api_table.html)
