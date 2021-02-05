@@ -1,5 +1,5 @@
 # Awesome Malaysia [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-- - -
+---
 A curated list of awesome tech resources in Malaysia. By Communities For Communities!
 
 ## Contents
