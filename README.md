@@ -342,4 +342,4 @@ Kindly refer [Contribution Guidelines](CONTRIBUTING.md) guide for details.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
