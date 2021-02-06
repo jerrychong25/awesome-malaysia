@@ -63,7 +63,8 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [Open Data](#open-data)
   - [Government](#government)
   - [International Organization](#international-organization)
-
+- [Inspired By](#inspired-by)
+- [License](#license)
 ## Communities
 ### By Field
 #### Software Engineering
