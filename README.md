@@ -64,7 +64,7 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
   - [Government](#government)
   - [International Organization](#international-organization)
 - [Inspired By](#inspired-by)
-- [License](#license)
+- [Contributing and License](#contributing-and-license)
 ## Communities
 ### By Field
 #### Software Engineering
@@ -336,10 +336,8 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 
 - [Awesome Singapore](https://github.com/engineroom-rocks/awesome-singapore)
 
-## Contributing
+## Contributing and License
 
 Kindly refer [Contribution Guidelines](CONTRIBUTING.md) guide for details.
-
-## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
