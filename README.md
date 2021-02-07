@@ -9,7 +9,6 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [Mobile App](#mobile-app)
 - [Open API](#open-api)
 - [Open Data](#open-data)
-- [Inspired By](#inspired-by)
 - [Contributing and License](#contributing-and-license)
 ## Communities
 ### By Field
@@ -277,11 +276,6 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [Sarawak Data](https://data.sarawak.gov.my/)
 ### International Organization
 - [WorldBank](https://data.worldbank.org/country/malaysia)
-
-## Inspired By
-
-- [Awesome Singapore](https://github.com/engineroom-rocks/awesome-singapore)
-
 ## Contributing and License
 
 Kindly refer [Contribution Guidelines](CONTRIBUTING.md) guide for details.
