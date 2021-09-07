@@ -87,7 +87,6 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 ### Kuala Lumpur
 - [Co-labs KL City Centre](https://co-labs.asia/location/co-labs-kl-city-centre) - Level 23A-25, Naza Tower, Platinum Park, 10, Persiaran KLCC.
 - [Colony Eco City](https://colony.work/kl-eco-city/) - Levels 16-20, Boutique Office 1(BO1-D), Menara 2, No. 3, Jalan Bangsar, Kampung Haji Abdullah Hukum.
-- [Colony KL Sentral](https://colony.work/kl-sentral/) - Unit 37-02, Level 37, Q Sentral, 2A, Jalan Stesen Sentral 2, Kuala Lumpur Sentral.
 - [Colony KLCC](https://colony.work/klcc/) - 6, Jalan Kia Peng.
 - [Colony Star Boulevard KLCC](https://colony.work/star-boulevard-klcc/) - Level 5, Star Boulevard, Jalan Yap Kwan Seng, Kampung Baru.
 - [Common Ground Bukit Bintang](https://www.commonground.work/locations/my/kuala-lumpur/bukit-bintang) - Level 24 & 25, 198 Menara Worldwide, Jalan Bukit Bintang.
