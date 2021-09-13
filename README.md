@@ -13,10 +13,12 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 ## Communities
 ### By Field
 #### Software Engineering
-- [JuniorDev MY](https://www.facebook.com/groups/2289983211014841/)
+- [Developer Kaki](https://www.facebook.com/groups/developerkaki/)
 - [Findev Malaysia](https://www.facebook.com/groups/1952619934822050)
 - [GDG Kuala Lumpur](https://www.gdgkl.org/)
 - [Girls In Tech Malaysia](https://malaysia.girlsintech.org/)
+- [Hackathon Kaki](https://www.facebook.com/groups/hackathonkaki)
+- [JuniorDev MY](https://www.facebook.com/groups/2289983211014841/)
 - [TechLadies Kuala Lumpur](https://techladieskl.peatix.com/)
 - [Women Who Code Kuala Lumpur](https://www.womenwhocode.com/kl)
 #### Startup
