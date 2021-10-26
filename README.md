@@ -29,8 +29,10 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [StarupJohor](https://startupjohor.org/)
 - [StartupMalaysia](https://startupmalaysia.org/)
 - [StartupMamak](https://www.facebook.com/groups/startupmamak/)
+- [Startup Malaysia Insights](https://www.facebook.com/groups/malaysia.startups/)
 - [Startups Zone](https://startups.my/)
 - [The Founders Club](https://founders.my/)
+- [WORQ Business Community](https://www.facebook.com/groups/worqcommunity/)
 
 ### By Languages
 #### Angular
