@@ -23,6 +23,7 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [Women Who Code Kuala Lumpur](https://www.womenwhocode.com/kl)
 #### Startup
 - [aCAT Penang](https://acatpenang.com/)
+- [Digital Penang Startups](https://www.facebook.com/groups/penangstartups/)
 - [Malaysia Digital Hub](https://www.malaysiadigitalhub.my/)
 - [Malaysia Tech Entprepreneur Programme](https://www.mtep.my/)
 - [Starup Borneo](https://startupborneo.my/)
