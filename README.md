@@ -12,6 +12,10 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [Contributing and License](#contributing-and-license)
 ## Communities
 ### By Field
+#### Data Science
+- [Artificial Intelligence User Group Malaysia](https://www.facebook.com/groups/AIUGM/)
+- [Data Science Malaysia](https://www.facebook.com/groups/datasciencemalaysia/)
+- [Deep Learning Malaysia](https://www.facebook.com/groups/deeplearningmalaysia/)
 #### Software Engineering
 - [Developer Kaki](https://www.facebook.com/groups/developerkaki/)
 - [Findev Malaysia](https://www.facebook.com/groups/1952619934822050)
