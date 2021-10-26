@@ -283,6 +283,7 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 ## Open Data
 ### Government
 - [Air Pollutant Index of Malaysia](http://apims.doe.gov.my/public_v2/api_table.html)
+- [COVIDNOW in Malaysia](https://covidnow.moh.gov.my/)
 - [DBKL Parking Guidance Information System (PGIS)](http://www.dbklpgis.my/)
 - [Malaysia Open Data Portal](http://www.data.gov.my/)
 - [Sarawak Data](https://data.sarawak.gov.my/)
