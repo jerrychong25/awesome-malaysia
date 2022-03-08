@@ -112,6 +112,7 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [Found8 KL Sentral](https://www.found8.com/) - 5, East Wing, Level, 3, Jalan Stesen Sentral, Kuala Lumpur Sentral.
 - [Komune Bangsar South](https://www.komunecowork.com/the-vertical-bangsar-south) - Level 8, Vertical Corporate Tower B, Avenue 10, The Vertical, No. 8, Jalan Kerinchi, Bangsar South City.
 - [Komune KLCC](https://www.komunecowork.com/wisma-uoa-2-klcc) - Level 6, Lobby A, Wisma UOA II, No 21 Jalan Pinang.
+- [Sandbox Space](https://www.sandboxco.space/) - 22-1 Jalan Radin Bagus 3, Sri Petaling, 57000 Kuala Lumpur.
 - [Unispace KL Sentral](https://www.unispace.my/kl-sentral) - Q Sentral, Floor 21, Units 08 & 09, Kuala Lumpur Sentral.
 - [WeWork Equatorial Plaza](https://www.wework.com/buildings/equatorial-plaza--kuala-lumpur) - 14, Jalan Sultan Ismail.
 - [WeWork Mercu 2](https://www.wework.com/buildings/mercu-2--kuala-lumpur) - No. 3, Jalan Bangsar, KL Eco City.
