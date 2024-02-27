@@ -26,6 +26,7 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [Penang Tech MY](https://www.facebook.com/groups/penangtechmy)
 - [TechLadies Kuala Lumpur](https://techladieskl.peatix.com/)
 - [Women Who Code Kuala Lumpur](https://www.womenwhocode.com/kl)
+- [Ethereum Kuala Lumpur](https://www.ethkl.org/)
 #### Startup
 - [aCAT Penang](https://acatpenang.com/)
 - [Digital Penang Startups](https://www.facebook.com/groups/penangstartups/)
