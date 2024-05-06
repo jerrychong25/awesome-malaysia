@@ -1,4 +1,10 @@
 # Awesome Malaysia [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+<br/>
+<p align="left"> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jerrychong25.awesome-malaysia" alt="visitors"/>
+</p>
+
 ---
 A curated list of awesome tech resources in Malaysia. By Communities For Communities!
 
