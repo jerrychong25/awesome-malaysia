@@ -295,6 +295,7 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [COVIDNOW in Malaysia](https://covidnow.moh.gov.my/)
 - [DBKL Parking Guidance Information System (PGIS)](http://www.dbklpgis.my/)
 - [Malaysia Public Sector Open Data Platform](http://www.data.gov.my/)
+- [Malaysian Space Agency (MYSA) Satelite Open Data](https://rsopendata.mysa.gov.my/)
 - [Penang GeoHub Open Data](https://data-pegis.opendata.arcgis.com/)
 - [Sarawak Data](https://data.sarawak.gov.my/)
 ### International Organization
