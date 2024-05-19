@@ -300,6 +300,8 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [Sarawak Data](https://data.sarawak.gov.my/)
 ### International Organization
 - [WorldBank](https://data.worldbank.org/country/malaysia)
+### Others
+- [Malaysia Artificial Intelligence (Malaysia AI)](https://github.com/malaysia-ai)
 ## Contributing and License
 
 Kindly refer [Contribution Guidelines](CONTRIBUTING.md) guide for details.
